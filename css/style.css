@@ -2,6 +2,19 @@ body{
   background: url('../img/bodyBg.gif');
 }
 
+p{
+  font-size: 15px;
+}
+
 #main-row{
   padding-top: 150px;
+}
+
+#details{
+  padding: 0;
+}
+
+#details p{
+  margin-bottom: 3px;
+  font-size: 15px;
 }
