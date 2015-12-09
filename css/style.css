@@ -58,3 +58,49 @@ body{
 #name{
   margin-top: 0.625rem;
 }
+
+#pub_list
+{
+  margin-left: 0;
+}
+
+
+#pub_list h4
+{
+  font-weight: bold;
+    padding-bottom: 4px;
+}
+
+#pub_list h4, #pub_list p
+{
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+}
+
+.pub-links h5
+{
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+
+}
+
+#pub_list a
+{
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.pub-img {
+  height: 100px;
+  width: 200px;
+  overflow: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #efefef;
+    float: left;
+  clear: none;
+  border: 1px solid black;
+  margin-right: 10px;
+}
