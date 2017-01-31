@@ -75,21 +75,20 @@ body{
 {
   padding: 0;
   margin: 0;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .pub-links h5
 {
   padding: 0;
   margin: 0;
-  font-size: 12px;
-
+  font-size: 11px;
 }
 
 #pub_list a
 {
   font-weight: bold;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .pub-img {
@@ -103,4 +102,13 @@ body{
   clear: none;
   border: 1px solid black;
   margin-right: 10px;
+}
+
+#pub_list li
+{
+  width: 100%;
+  float: left;
+  clear: left;
+  list-style-type: none;
+  margin-bottom: 15px;
 }
